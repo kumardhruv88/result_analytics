@@ -1,4 +1,4 @@
-# 🎓 NSUT Result Analytics Dashboard
+# 🎓 Result Analytics Dashboard
 
 A professional web-based dashboard for analyzing B.Tech semester results with interactive visualizations and comprehensive statistical insights.
 
